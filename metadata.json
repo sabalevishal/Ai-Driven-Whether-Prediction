@@ -1,0 +1,6 @@
+{
+  "name": "AI Weather Predictor",
+  "description": "AI-driven meteorological forecasting system comparing Random Forest, XGBoost, LSTM, and Hybrid models with interactive simulations and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
